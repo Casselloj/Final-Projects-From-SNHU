@@ -1,2 +1,3 @@
 # Final-Projects-From-SNHU
-Final Projects from all of my classes.
+
+This is a collection of Final Projects from my courses.
